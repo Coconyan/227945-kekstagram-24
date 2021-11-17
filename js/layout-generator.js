@@ -1,5 +1,3 @@
-
-
 const getPictures = (data) => {  
   data.forEach(element => {
     const pictureTemplate = document.querySelector('#picture').content.querySelector('.picture').cloneNode(true);
