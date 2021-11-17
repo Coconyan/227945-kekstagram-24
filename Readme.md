@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Александр Микрюков](https://up.htmlacademy.ru/javascript/24/user/227945).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Арбузов](https://htmlacademy.ru/profile/arbualex).
 
 ---
 
